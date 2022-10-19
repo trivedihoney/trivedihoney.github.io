@@ -1,0 +1,10 @@
+title: Honey Trivedi # your name (or website title) here
+logo: "/images/logo.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  I'm a passionate Engineer with 6 years of experience in Production planning, Supervising, Problem solving, coding and Process improvement. I want to use my skills to solve problems and turn ideas into reality. 
+  <br><br>
+  Successful in intense and demanding environments, providing decisive team leadership and problem-solving abilities. Skilled at using coding knowledge to increase productivity and obtaining valuable insights.
+  <br><br>
+  <a href="https://www.linkedin.com/in/honey-trivedi-207693217/">View My LinkedIn Profile</a> 
+  
+theme: jekyll-theme-minimal
