@@ -1,51 +1,77 @@
-## Developer Portfolio Landing Page Template
+# Personal Portfolio 🔥
+> https://rajaprerak.github.io/
 
-### Introduction
+:star: Star me on GitHub — it helps!
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/rajaprerak/rajaprerak.github.io/commits/master)
+[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://rajaprerak.github.io/)
+[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/rajaprerak/)
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-<img src="images/demo.gif?raw=true"/>
+### Website Preview
+#### Home Page
+<img src="website_images/HomePage.gif" width="900">
 
-### Installation
 
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
-___
+#### About Page
+<img src="website_images/AboutPage.png" width="900">
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Projects Page
+<img src="website_images/ProjectPage.png" width="900">
+  
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+:star: Star me on GitHub — it helps!
 
-```markdown
-Syntax highlighted code block
+## Features 📋
+⚡️ Fully Responsive\
+⚡️ Valid HTML5 & CSS3\
+⚡️ Typing animation using `Typed.js`\
+⚡️ Easy to modify
 
-# Header 1
-## Header 2
-### Header 3
+## Installation & Deployment 📦
+- Clone the repository and modify the content of <b>index.html</b> 
+- Add or remove images from `assets/img/` directory as per your requirement.
+- Update the info of `projects` folder according to your need
+- Use [Github Pages](https://create-react-app.dev/docs/deployment/#github-pages) to create your own website.
+- To deploy your website, first you need to create github repository with name `<your-github-username>.github.io` and push the generated code to the `master` branch.
 
-- Bulleted
-- List
+## Sections 📚
+✔️ About\
+✔️ Interests\
+✔️ Education\
+✔️ Online Certification\
+✔️ Experience\
+✔️ Projects \
+✔️ Skills \
+✔️ Resume\
+✔️ Contact Info
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Tools Used 🛠️
+* <b>GitHub Pages</b> - To host my static website (HTML, CSS, JS).
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Contributing 💡
+#### Step 1
 
-### Roadmap
+- **Option 1**
+    - 🍴 Fork this repo!
 
-See the [open issues](https://github.com/evanca/quick-portfolio/issues) for a list of proposed features (and known issues).
-___
+- **Option 2**
+    - 👯 Clone this repo to your local machine.
 
-### References
 
-[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
-<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
-<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
+#### Step 2
+
+- **Build your code** 🔨🔨🔨
+
+#### Step 3
+
+- 🔃 Create a new pull request.
+
+## License
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+- **[MIT license](http://opensource.org/licenses/mit-license.php)**
